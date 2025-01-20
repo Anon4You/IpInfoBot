@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# Author : Alienkrishn
 import telebot
 import requests
 import time
